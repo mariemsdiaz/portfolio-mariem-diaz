@@ -1,7 +1,10 @@
 ### Mariem's Data Analytics Portfolio
 
 Welcome to my data analytics portfolio! This repository showcases projects completed during the Data Analytics Bootcamp at UC Berkeley and pro bono consulting for hotels and restaurants. It highlights my skills in data extraction, transformation, analysis, and visualization, demonstrating my ability to turn raw data into actionable insights.
-<img src="mariem_diaz.JPG" alt="Mariem Cryer" width="200">
+
+
+<img src="mariem_diaz.jpg" alt="Mariem Diaz" width="150" align="left" style="margin-right: 10px;">
+
 
 
 ---
