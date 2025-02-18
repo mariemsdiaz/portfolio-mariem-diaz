@@ -26,6 +26,10 @@ I am particularly interested in:
 - eCommerce Analytics: Analyzing consumer behavior and improving user experience.
 
 ---
+## **Links to Projects**
+## Hollywood Hotel Sales and Insights 2024
+For additional resources, check out my related project:
+[Hollywood Hotel 2024](https://github.com/mariemsdiaz/hollywood_hotel_insights.git)
 
 This portfolio is a testament to my dedication to uncovering insights from data and presenting them in a clear and compelling way. Explore my projects to see how I turn raw data into actionable insights!
 
