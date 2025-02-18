@@ -5,8 +5,6 @@ Welcome to my data analytics portfolio! This repository showcases projects compl
 
 <img src="mariem_diaz.JPG" alt="Mariem Diaz" width="150" align="left" style="margin-right: 10px;">
 
-
-
 ---
 
 ### **About Me**
