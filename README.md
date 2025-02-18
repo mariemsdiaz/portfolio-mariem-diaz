@@ -3,8 +3,7 @@
 Welcome to my data analytics portfolio! This repository showcases projects completed during the Data Analytics Bootcamp at UC Berkeley and pro bono consulting for hotels and restaurants. It highlights my skills in data extraction, transformation, analysis, and visualization, demonstrating my ability to turn raw data into actionable insights.
 
 ---
-
-<img src="mariem_diaz.JPG" alt="Mariem Cryer" width="150" style="border-radius: 50%; margin-right: 15px; float: left;">
+<img src="mariem_diaz.JPG" alt="Mariem Cryer" width="150" align="left" style="margin-right: 10px;">
 
 ### **About Me**
 I have a diverse background that combines analytical skills with creative problem-solving. With a Bachelor of Arts in Political Science and Theatre from Gettysburg College and a Master of Fine Arts in Acting, I bring a unique perspective to data analysis. Over the last seven years, I honed my organizational and collaborative skills as an actor and bartender, where I developed a keen eye for trends and patterns in customer behavior.
