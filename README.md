@@ -8,7 +8,8 @@ Welcome to my data analytics portfolio! This repository showcases projects compl
 ### **About Me**
 I have a diverse background that combines analytical skills with creative problem-solving. With a Bachelor of Arts in Political Science and Theatre from Gettysburg College and a Master of Fine Arts in Acting, I bring a unique perspective to data analysis. Over the last seven years, I honed my organizational and collaborative skills as an actor and bartender, where I developed a keen eye for trends and patterns in customer behavior.
 
-In 2024, I completed a Data Analytics Bootcamp at the University of California, Berkeley. Since then, I have focused on applying my skills to real-world problems, working on projects that merge my technical expertise with my passion for storytelling through data.
+In 2024, I completed a Data Analytics Bootcamp at the University of California, Berkeley. 
+Since then, I have focused on applying my skills to real-world problems, working on projects that merge my technical expertise with my passion for storytelling through data.
 
 ---
 
